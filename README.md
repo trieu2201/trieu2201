@@ -7,6 +7,7 @@ Web Developer & Embedded Developer
 * 🌍  I'm based in VietNam
 * ✉️  You can contact me at [richdadtrieu@gmail.com](mailto:richdadtrieu@gmail.com)
 * 🧠  I'm learning at HO CHI MINH CITY UNIVERSITY OF TECHNOLOGY
+* 🧠  Intern as an Fullstack developer at Intel Products VietNam
 
 ### Skills
 
